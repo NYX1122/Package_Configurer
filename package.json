@@ -1,0 +1,20 @@
+{
+  "name": "package_configurer",
+  "version": "1.0.0",
+  "description": "Accesses a specified directory to create a default package.json file as well as other default files.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node appTester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Package_Configurer.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Package_Configurer/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Package_Configurer#readme"
+}
